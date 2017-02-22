@@ -55,8 +55,8 @@ const uint8_t keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     [1] = KEYMAP( \
         ESC,F1,  F2,  F3,  F4,  F5,  F6,  F7,  F8,  F9, F10,   F11,F12, BSLS,GRV, HOME, \
         TAB, Q,   W,   E,   R,   T,   Y,   U,   I,   O,   P,   LBRC,RBRC,BSPC,     END, \
-        FN0, A,   S,   D,   F,   G,   H,   J,   K,   L,   SCLN,QUOT,NUHS,ENT,      PGUP,\
-        LSFT,NUBS,Z,   X,   C,   V,   B,   N,   M,   COMM,DOT, SLSH,RSFT,     UP,  PGDN,\
+        FN0, MUTE,VOLD,VOLU,  F,   G,   H,   J,   K,   L,   SCLN,QUOT,NUHS,ENT,      PGUP,\
+        LSFT,NUBS,MPLY,MPRV,MNXT,MSTP,   B,   N,   M,   COMM,DOT, SLSH,RSFT,     UP,  PGDN,\
         LCTL,LGUI,LALT,               SPC,           RALT,FN1,NO ,     LEFT,DOWN,RGHT \
     ),
 };
